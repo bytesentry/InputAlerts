@@ -1,0 +1,3 @@
+echo "alerts_config.json" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore

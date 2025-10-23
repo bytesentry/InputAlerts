@@ -266,7 +266,7 @@ class AlertConfigurator(tk.Tk):
 
     def __init__(self):
         super().__init__()
-        self.title("Game Alerts")
+        self.title("Input Alerts")
         self.geometry("610x600")
         self.configure(bg="#2E2E2E")
         self.entries = []
